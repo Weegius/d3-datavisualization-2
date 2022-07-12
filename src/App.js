@@ -19,9 +19,9 @@ function App() {
       w="100%"
       justify={"center"}
       align="center"
-      bg={"blackAlpha.500"}
+      bg={"#001219"}
     >
-      <Accordion>
+      <Accordion color={'white'}>
         <AccordionItem>
           <h2>
             <AccordionButton>
@@ -40,7 +40,7 @@ function App() {
           <h2>
             <AccordionButton>
               <Box flex="1" textAlign="left">
-                What are the lowest paying Data Scientist Job Position Names?
+                What are the lowest paying Entry Level Data Scientist Job Position Names?
               </Box>
               <AccordionIcon />
             </AccordionButton>
@@ -53,7 +53,7 @@ function App() {
           <h2>
             <AccordionButton>
               <Box flex="1" textAlign="left">
-                Where are these data scientist jobs located?
+                Highest Paying Executive Level Data Scientist Job Position Names
               </Box>
               <AccordionIcon />
             </AccordionButton>
